@@ -72,8 +72,8 @@ def all_supplies_in_holidays(holiday_hash)
       array2 << supply
       array2
       }
-      puts "  #{holiday.capitalize}: #{array2}"
     end
+    puts "  #{holiday.capitalize}: #{array2}"
   }
 end
 
